@@ -1,0 +1,3 @@
+Contains environment configuration files and scripts such as .env, requirements.txt, environment.yml that define
+ project dependencies, API keys, and runtime settings. This ensures consistent setups across different machines and 
+ deployment environments.

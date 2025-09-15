@@ -1,0 +1,2 @@
+Contains automated test cases including unit tests, integration tests, and end-to-end tests for validating the correctness
+ of code in frontend, backend, and AI/ML modules. Helps ensure reliability and correctness as the project evolves.

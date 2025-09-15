@@ -1,0 +1,2 @@
+Utility helper scripts and functions used across different parts of the project for common tasks like data processing,
+ formatting outputs, or reusable components that don’t fit directly into main feature modules.

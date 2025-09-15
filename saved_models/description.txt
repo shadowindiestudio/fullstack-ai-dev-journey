@@ -1,0 +1,2 @@
+Holds trained AI/ML model files, checkpoints, or serialized objects that can be loaded later for inference or further
+ training, allowing experiments to be resumed or deployed without retraining from scratch.

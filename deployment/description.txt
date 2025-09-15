@@ -1,0 +1,1 @@
+Configuration files and scripts for Docker, Netlify, Vercel, and CI/CD to automate deployment.

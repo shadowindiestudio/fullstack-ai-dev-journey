@@ -1,0 +1,1 @@
+Contains all user-facing code: static sites, React components, Tailwind styles, and UI/UX resources.

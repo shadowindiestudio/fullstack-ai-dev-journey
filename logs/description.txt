@@ -1,0 +1,2 @@
+Stores log files generated during development, testing, or production runs. These include server logs, error tracking, 
+training progress logs, and any runtime diagnostic information useful for debugging and monitoring.
